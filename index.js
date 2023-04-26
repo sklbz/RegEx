@@ -1,1 +1,1 @@
-const regex = /bob/
+const regex = /(bob|robert)/g
